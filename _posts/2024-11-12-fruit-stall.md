@@ -1,9 +1,8 @@
 ---
 layout: post
-title: First Intrudction To programming assignment  
+title: fruit stall program 
 date: 2024-11-11 13:35 +0000
 ---
-
 <h3>
 For my first programming assignment in university, I had to create a program in C++ with 100 lines of code using basic input and output, I chose to create an interaction at a fruit stall for the user to purchase any type of fruit they want. 
 </h3>
