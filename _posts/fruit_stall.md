@@ -22,13 +22,4 @@ My fruit stall Program’s features are:
 <h3> Here is the video explaining each line of code I created for my assignment. </h3> 
 
 
-
-{%
-  include embed/video.html
-  src='/assets/video/fruit_stall_program_explanation.mp4'
-  types='mp4|mov'
-  title='Demo video'
-  autoplay=false
-  loop=false
-  muted=false
-%}
+{% include embed/youtube.html id='KA7qc6nzYlo' %}
