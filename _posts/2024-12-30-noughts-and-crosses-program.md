@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Noughts and Crosses program
+title: Noughts and Crosses program  
 date: '2024-12-30 01:02:44 +0000'
+image: /assets/img/tictac-post.jpg
 ---
+
+
 <h3>Overview</h3> 
 For my second programming assignment for university, I was challenged to create a noughts and crosses (tic tac toe) game in C++ the goals were to:
 <ul>
